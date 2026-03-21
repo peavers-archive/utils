@@ -16,7 +16,7 @@ repositories {
 
 dependencies {
     // Resilience
-    implementation "io.github.resilience4j:resilience4j-all:2.0.2"
+    implementation "io.github.resilience4j:resilience4j-all:2.4.0"
 
     // Apache
     implementation 'org.apache.commons:commons-text:1.10.0'
