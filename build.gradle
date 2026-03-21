@@ -20,7 +20,7 @@ dependencies {
 
     // Apache
     implementation 'org.apache.commons:commons-text:1.10.0'
-    implementation 'org.apache.commons:commons-collections4:4.4'
+    implementation 'org.apache.commons:commons-collections4:4.5.0'
     implementation 'commons-io:commons-io:2.11.0'
 
     // Logging
